@@ -1,4 +1,4 @@
-<h3>PROBLEM STATEMENT: Um belo dia de praia 🏝️</h3>
+<h2>PROBLEM STATEMENT: Um belo dia de praia 🏝️</h2>
 ---
 <p>É verão e você quer curtir um dia nas belíssimas praias de Maragogi, o Caribe brasileiro. Você acabou de tomar seu café da manhã, e quer se preparar para tomar o tão esperado banho de mar. Para ter o dia perfeito de praia, você deve passar seu filtro solar e separar um dinheiro para tomar aquela água de coco de lei. Se estiver chovendo, você não poderá ir à praia.</p>
 <p>No início do dia, você se encontra:</p>
@@ -7,7 +7,7 @@
 - 0 reais na carteira
 <br/>
 - Clima ensolarado
-<h6>Input</h6>
+<h3>Input</h3>
 ---
 <p>Você receberá inúmeras entradas contendo ações realizadas por você ou uma mudança do clima, até receber a entrada “ir para a praia”. As ações podem ser as seguintes:</p>
 - separar dinheiro → Pede uma nova entrada, em float, que representa a quantia adicionada à carteira
@@ -21,7 +21,7 @@
 - ir para a praia → Finaliza os acontecimentos
 <br/><br/>
 <p>Obs.: Caso apareça uma entrada diferente dessas ações, seu programa deverá ignorar.</p>
-<h6>Output</h6>
+<h3>Output</h3>
 ---
 <p>Você deve se preparar para dois tipos de saídas: uma para se você vai à praia ou não, e outra para como você chegou da praia.</p>
 <p>Se o clima estiver chuvoso:</p>
